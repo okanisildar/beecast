@@ -52,7 +52,7 @@
     "@storybook/addon-links": "^7.6.10",
     "@storybook/addon-themes": "^7.6.10",
     "@storybook/blocks": "^7.6.10",
-    "@storybook/nextjs": "^7.6.10",
+    "@storybook/nextjs": "^8.0.6",
     "@storybook/react": "^7.6.10",
     "@storybook/test": "^7.6.10",
     "@types/node": "^20.11.10",
